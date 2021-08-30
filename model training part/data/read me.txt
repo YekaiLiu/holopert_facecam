@@ -1,0 +1,3 @@
+the dataset used for my training has a size of 4811 images.
+and it can be downloaded from:
+https://github.com/aisegmentcn/matting_human_datasets
